@@ -1,4 +1,4 @@
-Oi 👋 My name is Gustavo Santos!
+Oi 👋 Meu nome é Ruan Brito!
 ================================
 
 Eu sou um desenvolvedor Front-End!
@@ -7,9 +7,8 @@ Eu sou um desenvolvedor Front-End!
 Atualmente estou focado no desenvolvimento Web,criando aplicações utilizando Javascript,React.js.
 
 * 🌍  Atualmente moro em Bacabal-Ma.
-* :email:  ruanbrito0508@gmail.com
+* :email: Me contacte: ruanbrito0508@gmail.com
 * 🧠  Atualmente estudando sobre UX/UI.
-* ⚡  I can learn fast if you teach me slowly!
 * :octocat: Me siga no  LinkedIn: https://www.linkedin.com/in/ruan-brito-074aaa237/
 
 ----------------------------------------------------
@@ -23,7 +22,6 @@ Atualmente estou focado no desenvolvimento Web,criando aplicações utilizando J
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
@@ -32,3 +30,9 @@ Atualmente estou focado no desenvolvimento Web,criando aplicações utilizando J
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ruanbrit0" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/github.png" width="35" height="35" /></a><a href="https://www.linkedin.com/in/ruan-brito-074aaa237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+<b>Status GitHub</b>
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanbrit0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanbrit0&layout=compact&langs_count=7&theme=dracula"/>
+  
