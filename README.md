@@ -20,7 +20,7 @@
 
 ## 🧰 **Tecnologias & Ferramentas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,mysql,html,tailwind,laravel,vue,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,tailwind,laravel,vue,nodejs" />
 </p>
 
 ---
