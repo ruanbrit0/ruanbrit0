@@ -1,9 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ZhSx7Wd.png" width="800px" alt="Banner Dev">
-</p>
 
-<h1 align="center">👋 Olá, eu sou o <strong>Carla — Desenvolvedor Web Fullstack</strong></h1>
+
+<h1 align="center">👋 Olá, eu sou o Ruan — Desenvolvedor Web Fullstack</strong></h1>
 
 <p align="center">
   Construo aplicações completas usando <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>MySQL</strong>.
