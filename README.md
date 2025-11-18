@@ -20,7 +20,7 @@
 
 ## 🧰 **Tecnologias & Ferramentas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,laravel,vue,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,html,tailwind,laravel,vue,nodejs" />
 </p>
 
 ---
@@ -47,23 +47,11 @@
 
 ## 🌐 **Conecte-se comigo**
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:ruanbrito0508@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px">
   </a>
 </p>
 
----
-
-## 🐍 Snake (Contribuições animadas)
-<p align="center">
-  <img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  Feito com 💙 por <strong>Carla</strong>
-</p>
