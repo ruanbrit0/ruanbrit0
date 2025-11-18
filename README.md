@@ -1,32 +1,71 @@
-Oi 👋 Meu nome é Ruan Brito!
-================================
-
-Eu sou um desenvolvedor Full-Stack!
-----------------------------------------------------
-
-Trabalho criando aplicações fullstack para diversos setores da industria.
-
-* :email: Me contacte: ruanbrito0508@gmail.com
-* :octocat: Me siga no  LinkedIn: https://www.linkedin.com/in/ruan-brito-074aaa237/
-
-----------------------------------------------------
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/ZhSx7Wd.png" width="800px" alt="Banner Dev">
 </p>
 
+<h1 align="center">👋 Olá, eu sou o <strong>Carla — Desenvolvedor Web Fullstack</strong></h1>
 
+<p align="center">
+  Construo aplicações completas usando <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>MySQL</strong>.
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/ruanbrit0" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/github.png" width="35" height="35" /></a><a href="https://www.linkedin.com/in/ruan-brito-074aaa237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+## 🚀 **Sobre mim**
+- 💻 Desenvolvedor Web **Fullstack**
+- 🛠 Trabalho com **Frontend + Backend**
+- 🔧 Tecnologias principais: **JavaScript, PHP, MySQL**
+- 🔥 Apaixonado por criar sistemas eficientes, rápidos e fáceis de usar
+- 📚 Sempre estudando para evoluir como desenvolvedor
 
-<b>Status GitHub</b>
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanbrit0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanbrit0&layout=compact&langs_count=7&theme=dracula"/>
-  
+---
+
+## 🧰 **Tecnologias & Ferramentas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,laravel,vue,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 **Estatísticas do GitHub**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🏗 **O que eu desenvolvo**
+- Painéis administrativos  
+- Sistemas completos com Login + CRUD  
+- APIs em PHP / Node  
+- Dashboards integradas com MySQL  
+- Sites e aplicações responsivas  
+
+---
+
+## 🌐 **Conecte-se comigo**
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px">
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px">
+  </a>
+</p>
+
+---
+
+## 🐍 Snake (Contribuições animadas)
+<p align="center">
+  <img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  Feito com 💙 por <strong>Carla</strong>
+</p>
