@@ -13,7 +13,6 @@
 - 💻 Desenvolvedor Web **Fullstack**
 - 🛠 Trabalho com **Frontend + Backend**
 - 🔧 Tecnologias principais: **JavaScript, PHP, MySQL**
-- 🔥 Apaixonado por criar sistemas eficientes, rápidos e fáceis de usar
 - 📚 Sempre estudando para evoluir como desenvolvedor
 
 ---
